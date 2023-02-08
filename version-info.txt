@@ -1,1 +1,1 @@
-b:1:(dev):This is version info that relates to the version wow!
+b:1:(dev):This is some text that talks about the update that is available.
