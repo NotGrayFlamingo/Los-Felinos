@@ -1,1 +1,1 @@
-b:3:(dev):This is some text that talks about the update that is available.
+b:3:(dev):This is some text that talks about the update that is available.:wss://AlertCleverWordprocessor.jaxmac.repl.co:443
